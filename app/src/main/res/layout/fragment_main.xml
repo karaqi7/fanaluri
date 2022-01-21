@@ -57,7 +57,8 @@
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.439" />
+        app:layout_constraintVertical_bias="0.439"
+        app:srcCompat="@drawable/kon"/>
 
     <ImageView
         android:id="@+id/imageNeymar"
@@ -70,7 +71,8 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.669" />
+        app:layout_constraintVertical_bias="0.669"
+        app:srcCompat="@drawable/kazuma"/>
 
     <ImageView
         android:id="@+id/imageLewandowski"
@@ -83,7 +85,8 @@
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.884" />
+        app:layout_constraintVertical_bias="0.884"
+        app:srcCompat="@drawable/kazuma2"/>
 
     <ImageView
         android:id="@+id/imageMessi"
@@ -96,7 +99,8 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.439" />
+        app:layout_constraintVertical_bias="0.439"
+        app:srcCompat="@drawable/grimm"/>
 
     <ImageView
         android:id="@+id/imageMbappe"
@@ -109,6 +113,7 @@
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.669" />
+        app:layout_constraintVertical_bias="0.669"
+        app:srcCompat="@drawable/kenpachi"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
