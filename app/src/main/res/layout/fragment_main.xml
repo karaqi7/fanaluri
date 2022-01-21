@@ -36,7 +36,7 @@
         android:layout_marginStart="8dp"
         android:layout_marginEnd="8dp"
         android:gravity="center"
-        android:text="დააჭირეთ მანქანათა კოლექციის სანახავად"
+        android:text="chads of anime"
         android:textColor="#fff"
         android:textSize="20sp"
         android:textStyle="bold"
