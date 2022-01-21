@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "222323310850",
+    "project_id": "hentai-344b6",
+    "storage_bucket": "hentai-344b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222323310850:android:395ef9bd7cedf9b191421b",
+        "android_client_info": {
+          "package_name": "com.example.ftest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222323310850-p7lfot9it6cngnv5jdk49bjbr6qg03rg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3OOqrttOf1cRpxrjCF6-GwugBr2oK_mY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222323310850-p7lfot9it6cngnv5jdk49bjbr6qg03rg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
